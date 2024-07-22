@@ -4,3 +4,5 @@ This profile card layout is built using HTML and CSS to create a visually appeal
 **Responsive Styling**: Includes media queries to adjust margins for mobile devices, ensuring the card maintains balanced spacing on all devices, including large screens like the iPhone 14 Pro Max.
 **Interactive Elements**: Styles for navigation links and hover effects enhance user interaction, with a clean design that adjusts for different states.
 **Modern Typography**: Uses the Inter font from Google Fonts for a contemporary look and feel.
+
+![Alt text](\assets\images\Screenshot.png "Screenshot")
