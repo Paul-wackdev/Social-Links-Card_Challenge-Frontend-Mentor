@@ -5,4 +5,4 @@ This profile card layout is built using HTML and CSS to create a visually appeal
 **Interactive Elements**: Styles for navigation links and hover effects enhance user interaction, with a clean design that adjusts for different states.
 **Modern Typography**: Uses the Inter font from Google Fonts for a contemporary look and feel.
 
-![Screenshot of the final design](./Screenshot.png "Screenshot")
+![Screenshot 2024-07-22 185705](https://github.com/user-attachments/assets/2d6f7312-d053-4155-afd1-eae418a95440)
