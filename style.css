@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+body {
+  background-color: hsl(0, 0%, 8%);
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile-card {
+  background-color: hsl(0, 0%, 12%);
+  width: 360px;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 1em;
+  padding: 30px;
+  padding-top: 10px;
+}
+
+header img {
+  clip-path: circle();
+  width: 85px;
+}
+
+header h2 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+header h4 {
+  color: hsl(75, 94%, 57%);
+  font-size: 13px;
+  margin-bottom: 15px;
+}
+
+section {
+  text-align: justify;
+  letter-spacing: 1px;
+}
+
+nav li {
+  background-color: hsl(0, 0%, 20%);
+  margin: 15px 0;
+  padding: 1em;
+  border-radius: 0.5rem;
+  list-style: none;
+  font-weight: 600;
+}
+
+nav a:link {
+  text-decoration: none;
+}
+
+nav li:hover {
+  background-color: rgba(255, 0, 0, 0.123);
+}
+
+nav li:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 600px) {
+  .profile-card {
+    margin: 20px; /* Add margin on all sides for smaller screens */
+  }
+}
